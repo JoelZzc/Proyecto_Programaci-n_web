@@ -1,5 +1,5 @@
 <?php 
-include '../src/views/layouts/header.php';
+require '../src/views/layouts/header.php';
 ?>
     <main>
         <section class="section-announcement-background">
