@@ -1,0 +1,17 @@
+{
+    "name": "sears/proyecto_programaci-n_web",
+    "autoload": {
+        "psr-4": {
+            "Sears\\ProyectoProgramaciNWeb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoelZzc",
+            "email": "joelz_23@alu.uabcs.mx"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
